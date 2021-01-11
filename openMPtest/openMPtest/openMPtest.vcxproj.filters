@@ -18,5 +18,13 @@
     <ClCompile Include="openMPtest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="readtest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="readtest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
